@@ -3,6 +3,11 @@ The problem is simple.... Due to covid regulations, my gym now has a manditory b
 
 To avoid this, I designed a basic booking bot which, using python and Selenium, logs onto the website and books a chosen training time.
 
+Techniques:
+Python
+Selenium
+WayScript
+
 ## Next Steps
 
 The script is now running on a schedule. An sms/email confirmation will be added to confirm the booking/completion of the script.
