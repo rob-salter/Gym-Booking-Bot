@@ -5,4 +5,4 @@ To avoid this, I designed a basic booking bot which, using python and Selenium, 
 
 ## Next Steps
 
-This is currently an inital basic script and will be amended to work with with WayScript, select the slot via a basic input, and finally send an sms to me to confirm the booking. 
+The script is now running on a schedule. An sms/email confirmation will be added to confirm the booking/completion of the script.
